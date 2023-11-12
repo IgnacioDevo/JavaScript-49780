@@ -39,3 +39,18 @@ let carnet = nombre + nacimiento + direccion;
 
 console.log(carnet); 
 */
+
+    /* ACTIVIDAD 4, Registro de personas */
+
+/* let nombre = prompt("Ingresa el primer nombre");
+let nombre2 = prompt("ingre el segundo nombre");
+let nombre3 = prompt("ingresa el tercero nombre");
+let nombre4 = prompt("ingresa el cuarto nonbre");
+let nombre5 = prompt("ingresa el quinto nombre");
+
+let nombres = "los nombres ingresados son " + nombre + " , " + nombre2 + " , " + nombre3 + " , " + nombre4 + " , " + nombre5
+
+console.log(nombres); */
+
+
+
